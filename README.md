@@ -8,9 +8,9 @@ https://www.hackerearth.com/blog/developers/minimax-algorithm-alpha-beta-pruning
 
 Psuedocode:
 
+//code
 
-
-function minimax(node, depth, maximizingPlayer)
+      function minimax(node, depth, maximizingPlayer)
       if depth = 0 or node is a terminal node
          return the utility of the node
      if maximizingPlayer
